@@ -1,5 +1,5 @@
 var shoes1 = {
-    shoes1:100,
+    shoes1price:100,
     tax:1.2,
     total:function(){
         return this.shoes1*this.tax
